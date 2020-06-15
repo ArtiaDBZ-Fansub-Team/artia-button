@@ -302,6 +302,33 @@
                     }
                 },
                 {
+                    "name": "ursimp",
+                    "path": "ursimp.mp3",
+                    "description": {
+                        "zh-CN": "我感觉你是个笨蛋",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },                    
+                {
+                    "name": "noheitai",
+                    "path": "noheitai.mp3",
+                    "description": {
+                        "zh-CN": "黑太禁止",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Master",
+                    "path": "Master.mp3",
+                    "description": {
+                        "zh-CN": "你就是我的Master嘛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "DontBeAPussy",
                     "path": "DontBeAPussy.mp3",
                     "description": {
@@ -374,6 +401,15 @@
                     }
                 },
                 {
+                    "name": "goodnight",
+                    "path": "goodnight.mp3",
+                    "description": {
+                        "zh-CN": "晚安",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },    
+                {
                     "name": "byebye",
                     "path": "byebye.mp3",
                     "description": {
@@ -418,6 +454,42 @@
                     "path": "naisu2.mp3",
                     "description": {
                         "zh-CN": "奶酥2",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naisu3",
+                    "path": "naisu3.mp3",
+                    "description": {
+                        "zh-CN": "奶酥3",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naisu4",
+                    "path": "naisu4.mp3",
+                    "description": {
+                        "zh-CN": "奶酥4",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naisu5",
+                    "path": "naisu5.mp3",
+                    "description": {
+                        "zh-CN": "奶酥?",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naisu6",
+                    "path": "naisu6.mp3",
+                    "description": {
+                        "zh-CN": "奶酥!",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -493,6 +565,15 @@
                         "ja-JP": "1",
                         "en-US": "2"
                     }
+                },
+                {
+                    "name": "kiukiumaomao",
+                    "path": "kiukiumaomao.mp3",
+                    "description": {
+                        "zh-CN": "咻咻猫猫",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
                 }
             ]
         },
@@ -504,6 +585,15 @@
                 "en-US": "Cute"
             },
             "voiceList": [
+                {
+                    "name": "tututu",
+                    "path": "tututu.mp3",
+                    "description": {
+                        "zh-CN": "突突突",
+                        "ja-JP": "起床了",
+                        "en-US": "起床了"
+                    }
+                },
                 {
                     "name": "起床了",
                     "path": "getup.mp3",
@@ -541,6 +631,15 @@
                     }
                 },
                 {
+                    "name": "dontcomein",
+                    "path": "dontcomein.mp3",
+                    "description": {
+                        "zh-CN": "不要过来",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "1-20",
                     "path": "1-20.mp3",
                     "description": {
@@ -554,6 +653,33 @@
                     "path": "1-19.mp3",
                     "description": {
                         "zh-CN": "媂媂不喜欢",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "dededong",
+                    "path": "dededong.mp3",
+                    "description": {
+                        "zh-CN": "噔噔咚",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "bangbang",
+                    "path": "bangbang.mp3",
+                    "description": {
+                        "zh-CN": "棒棒",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "whatisthatmelody",
+                    "path": "whatisthatmelody.mp3",
+                    "description": {
+                        "zh-CN": "What is that melody",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -649,6 +775,42 @@
                     }
                 },
                 {
+                    "name": "artiasimp",
+                    "path": "artiasimp.mp3",
+                    "description": {
+                        "zh-CN": "阿媂娅是笨蛋",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "imthebest",
+                    "path": "imthebest.mp3",
+                    "description": {
+                        "zh-CN": "本小姐世界最强",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "nobaka",
+                    "path": "nobaka.mp3",
+                    "description": {
+                        "zh-CN": "讨厌 八嘎",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "mama",
+                    "path": "mama.mp3",
+                    "description": {
+                        "zh-CN": "呀妈妈",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "1-16",
                     "path": "1-16.mp3",
                     "description": {
@@ -658,14 +820,23 @@
                     }
                 },
                 {
-                    "name": "goodnight",
-                    "path": "goodnight.mp3",
+                    "name": "letusgobaby",
+                    "path": "letusgobaby.mp3",
                     "description": {
-                        "zh-CN": "晚安",
+                        "zh-CN": "Let's go baby",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
-                }              
+                },
+                {
+                    "name": "top500",
+                    "path": "top500.mp3",
+                    "description": {
+                        "zh-CN": "OW500强阿媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                }            
             ]
         },
 
@@ -735,24 +906,6 @@
                     }
                 },
                 {
-                    "name": "ursimp",
-                    "path": "ursimp.mp3",
-                    "description": {
-                        "zh-CN": "我感觉你是个笨蛋",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },                    
-                {
-                    "name": "noheitai",
-                    "path": "noheitai.mp3",
-                    "description": {
-                        "zh-CN": "黑太禁止",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
                     "name": "1-7",
                     "path": "1-7.mp3",
                     "description": {
@@ -771,10 +924,37 @@
                     }
                 },
                 {
-                    "name": "Master",
-                    "path": "Master.mp3",
+                    "name": "study",
+                    "path": "study.mp3",
                     "description": {
-                        "zh-CN": "你就是我的Master嘛",
+                        "zh-CN": "好好学习哦",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "strive",
+                    "path": "strive.mp3",
+                    "description": {
+                        "zh-CN": "好好努力哦",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "GoldWillGlitter",
+                    "path": "GoldWillGlitter.mp3",
+                    "description": {
+                        "zh-CN": "是金子总有一天会发光的",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "female",
+                    "path": "female.mp3",
+                    "description": {
+                        "zh-CN": "女孩子也是哦",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
