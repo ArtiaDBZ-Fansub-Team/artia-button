@@ -12,7 +12,7 @@ const en_US = {
         toggleNavbar: "Toggle navigation bar",
         close: "Close",
         copy: "Copy",
-        control: "Player control",
+        control: "❄️Player control ❄️",
         stopvoice: "Stop playing",
         randomplay: "Random play",
         overlap: "Overlap",

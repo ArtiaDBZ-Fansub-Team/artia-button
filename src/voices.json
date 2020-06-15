@@ -48,7 +48,7 @@
                 "name": "yell1",
                 "path": "yell1.mp3",
                 "description": {
-                    "zh-CN": "大叫1",
+                    "zh-CN": "耳膜去世1",
                     "ja-JP": "1",
                     "en-US": "2"
                 }
@@ -57,16 +57,53 @@
                 "name": "yell2",
                 "path": "yell2.mp3",
                 "description": {
-                    "zh-CN": "大叫2",
+                    "zh-CN": "耳膜去世2",
                     "ja-JP": "1",
                     "en-US": "2"
                 }
             },
+            {
+                "name": "1-3",
+                "path": "1-3.mp3",
+                "description": {
+                    "zh-CN": "耳膜去世3",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-9",
+                "path": "1-9.mp3",
+                "description": {
+                    "zh-CN": "耳膜去世4",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-18",
+                "path": "1-18.mp3",
+                "description": {
+                    "zh-CN": "耳膜去世5",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-12",
+                "path": "1-12.mp3",
+                "description": {
+                    "zh-CN": "啊1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+
                 {
                     "name": "a",
                     "path": "a.mp3",
                     "description": {
-                        "zh-CN": "啊",
+                        "zh-CN": "啊2",
                         "ja-JP": "a",
                         "en-US": "Shriek"
                     }
@@ -386,6 +423,24 @@
                     }
                 },
                 {
+                    "name": "1-6",
+                    "path": "1-6.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子1",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-17",
+                    "path": "1-17.mp3",
+                    "description": {
+                        "zh-CN": "擦盘子2",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "rua1",
                     "path": "rua1.mp3",
                     "description": {
@@ -417,6 +472,15 @@
                     "path": "abuabu.mp3",
                     "description": {
                         "zh-CN": "阿布阿布",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-8",
+                    "path": "1-8.mp3",
+                    "description": {
+                        "zh-CN": "喃喃",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -468,6 +532,69 @@
                     }
                 },
                 {
+                    "name": "1-1",
+                    "path": "1-1.mp3",
+                    "description": {
+                        "zh-CN": "你要干嘛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-20",
+                    "path": "1-20.mp3",
+                    "description": {
+                        "zh-CN": "不要睡我",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-19",
+                    "path": "1-19.mp3",
+                    "description": {
+                        "zh-CN": "媂媂不喜欢",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-4",
+                    "path": "1-4.mp3",
+                    "description": {
+                        "zh-CN": "妈妈接我",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-5-2",
+                    "path": "1-5-2.mp3",
+                    "description": {
+                        "zh-CN": "妈妈奶我",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-21",
+                    "path": "1-21.mp3",
+                    "description": {
+                        "zh-CN": "妈妈奶我(大声)",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-5-1",
+                    "path": "1-5-1.mp3",
+                    "description": {
+                        "zh-CN": "给我吃",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "Yawn",
                     "path": "Yawn1.mp3",
                     "description": {
@@ -508,6 +635,24 @@
                     "path": "Artia_-_Baka_Hentai_Urusai.mp3",
                     "description": {
                         "zh-CN": "八嘎 黑太 无路赛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-15",
+                    "path": "1-15.mp3",
+                    "description": {
+                        "zh-CN": "死了吧笨蛋哼",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-16",
+                    "path": "1-16.mp3",
+                    "description": {
+                        "zh-CN": "你干嘛疼疼",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -554,6 +699,24 @@
                     }
                 },
                 {
+                    "name": "1-14",
+                    "path": "1-14.mp3",
+                    "description": {
+                        "zh-CN": "水之呼吸阿媂娅",
+                        "ja-JP": "草",
+                        "en-US": "You good?"
+                    }
+                },
+                {
+                    "name": "1-13",
+                    "path": "1-13.mp3",
+                    "description": {
+                        "zh-CN": "妈妈不要",
+                        "ja-JP": "草",
+                        "en-US": "You good?"
+                    }
+                },
+                {
                     "name": "BloodPressure",
                     "path": "BloodPressure.mp3",
                     "description": {
@@ -590,10 +753,19 @@
                     }
                 },
                 {
-                    "name": "IevanPolkka",
-                    "path": "IevanPolkka.mp3",
+                    "name": "1-7",
+                    "path": "1-7.mp3",
                     "description": {
-                        "zh-CN": "甩葱歌",
+                        "zh-CN": "干他",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-11",
+                    "path": "1-11.mp3",
+                    "description": {
+                        "zh-CN": "这个人对着我脸上射",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -603,6 +775,33 @@
                     "path": "Master.mp3",
                     "description": {
                         "zh-CN": "你就是我的Master嘛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "IevanPolkka",
+                    "path": "IevanPolkka.mp3",
+                    "description": {
+                        "zh-CN": "[甩葱歌]",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "tanjironouta",
+                    "path": "tanjironouta.mp3",
+                    "description": {
+                        "zh-CN": "[炭治郎之歌]",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "yuanfeng",
+                    "path": "yuanfeng.mp3",
+                    "description": {
+                        "zh-CN": "[远枫]",
                         "ja-JP": "1",
                         "en-US": "2"
                     }

@@ -1,6 +1,6 @@
 const ja_JP = {
     info: {
-        title: "アティアあボタン",
+        title: "Artia Button",
         info: "通知",
         null: "空",
         audioStaff: "オーディオクリップ: BattleWoLFz AmCh",
@@ -12,7 +12,7 @@ const ja_JP = {
         toggleNavbar: "ナビゲーションバーを切り替える",
         close: "閉じる",
         copy: "コピー",
-        control: "コントロール",
+        control: "❄️ コントロール ❄️",
         stopvoice: "再生停止",
         randomplay: "ランダム",
         overlap: "声重なる可能",
