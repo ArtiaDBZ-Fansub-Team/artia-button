@@ -1,0 +1,620 @@
+{
+    "voices": [
+        {
+            "categoryName": "actmoe",
+            "categoryDescription": {
+                "zh-CN": "❄️ 萌 ❄️",
+                "ja-JP": "萌え",
+                "en-US": "Moe"
+            },
+            "voiceList": [
+                {
+                    "name": "Artia_-_Meow_Meow_Meow",
+                    "path": "Artia_-_Meow_Meow_Meow.mp3",
+                    "description": {
+                        "zh-CN": "喵",
+                        "ja-JP": "喵",
+                        "en-US": "Meow Meow Meow"
+                    }
+                },
+                {
+                    "name": "meow",
+                    "path": "meow.mp3",
+                    "description": {
+                        "zh-CN": "喵喵喵",
+                        "ja-JP": "喵喵喵",
+                        "en-US": "Meow Meow Meow"
+                    }
+                },
+                {
+                    "name": "meowmeow",
+                    "path": "meowmeow.mp3",
+                    "description": {
+                        "zh-CN": "喵喵喵(超凶)",
+                        "ja-JP": "喵喵喵(超凶)",
+                        "en-US": "Meow Meow Meow(Angry)"
+                    }
+                },
+            {
+                "name": "hehe",
+                "path": "hehe.mp3",
+                "description": {
+                    "zh-CN": "嘿嘿",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "yell1",
+                "path": "yell1.mp3",
+                "description": {
+                    "zh-CN": "大叫1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "yell2",
+                "path": "yell2.mp3",
+                "description": {
+                    "zh-CN": "大叫2",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+                {
+                    "name": "a",
+                    "path": "a.mp3",
+                    "description": {
+                        "zh-CN": "啊",
+                        "ja-JP": "a",
+                        "en-US": "Shriek"
+                    }
+                }
+
+               
+
+            ]
+        },
+        {
+            "categoryName": "英语",
+            "categoryDescription": {
+                "zh-CN": "❄️ 英语 ❄️",
+                "ja-JP": "English",
+                "en-US": "English"
+            },
+            "voiceList": [
+                {
+                    "name": "Im_Yagoo_Cute_Asian_Girl",
+                    "path": "Im_Yagoo_Cute_Asian_Girl.mp3",
+                    "description": {
+                        "zh-CN": "我是Yagoo可爱亚洲女孩",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_Hell_Yah_Brother",
+                    "path": "Artia_-_Hell_Yah_Brother.mp3",
+                    "description": {
+                        "zh-CN": "你好哇",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "pee",
+                    "path": "pee.mp3",
+                    "description": {
+                        "zh-CN": "干杯",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "angrypee",
+                    "path": "angrypee.mp3",
+                    "description": {
+                        "zh-CN": "干杯(愤怒)",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "BabyArtia",
+                    "path": "BabyArtia.mp3",
+                    "description": {
+                        "zh-CN": "媂娅小时候",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "ASMR",
+                    "path": "ASMR.mp3",
+                    "description": {
+                        "zh-CN": "ASMR",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "big_brain_strats",
+                    "path": "big_brain_strats.mp3",
+                    "description": {
+                        "zh-CN": "大聪明",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "canseefuture",
+                    "path": "canseefuture.mp3",
+                    "description": {
+                        "zh-CN": "大预言家阿媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "IdolPretending",
+                    "path": "IdolPretending.mp3",
+                    "description": {
+                        "zh-CN": "偶像大师阿媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "doublekill",
+                    "path": "doublekill.mp3",
+                    "description": {
+                        "zh-CN": "Double Kill",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_Dont_Be_Afraid_Cmon_Bruh",
+                    "path": "Artia_-_Dont_Be_Afraid_Cmon_Bruh.mp3",
+                    "description": {
+                        "zh-CN": "不要怂",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_We_F_ck_Them",
+                    "path": "Artia_-_We_F_ck_Them.mp3",
+                    "description": {
+                        "zh-CN": "就是干",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_WTF",
+                    "path": "Artia_-_WTF.mp3",
+                    "description": {
+                        "zh-CN": "WTF",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "HealMe",
+                    "path": "HealMe.mp3",
+                    "description": {
+                        "zh-CN": "奶我奶我",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "HoloEsportTeam",
+                    "path": "HoloEsportTeam.mp3",
+                    "description": {
+                        "zh-CN": "Holo电竞队",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "whyoyouusebraininavideogame",
+                    "path": "whyoyouusebraininavideogame.mp3",
+                    "description": {
+                        "zh-CN": "为何要带脑子玩游戏",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "WhatisPMA",
+                    "path": "WhatisPMA.mp3",
+                    "description": {
+                        "zh-CN": "什么是正能量",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "PMAStreamerDontYall",
+                    "path": "PMAStreamerDontYall.mp3",
+                    "description": {
+                        "zh-CN": "正能量主播阿媂娅从不尖叫",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "AntiPretendingIodl",
+                    "path": "AntiPretendingIodl.mp3",
+                    "description": {
+                        "zh-CN": "正能量主播阿媂娅从不愤怒",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "FIdidntsay",
+                    "path": "FIdidntsay.mp3",
+                    "description": {
+                        "zh-CN": "假装清楚的阿媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "DontBeAPussy",
+                    "path": "DontBeAPussy.mp3",
+                    "description": {
+                        "zh-CN": "上啊上啊",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "mutemic",
+                    "path": "mutemic.mp3",
+                    "description": {
+                        "zh-CN": "又忘关麦",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "PepegaSpam",
+                    "path": "PepegaSpam.mp3",
+                    "description": {
+                        "zh-CN": "担心被Discord杀",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naenae",
+                    "path": "naenae.mp3",
+                    "description": {
+                        "zh-CN": "Nae Nae",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "MyManagerDoesNotKnowEnglish",
+                    "path": "MyManagerDoesNotKnowEnglish.mp3",
+                    "description": {
+                        "zh-CN": "运营不会英语",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "NoMarbles",
+                    "path": "NoMarbles.mp3",
+                    "description": {
+                        "zh-CN": "好好看媂娅打游戏啊啊",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "TrumpWater",
+                    "path": "TrumpWater.mp3",
+                    "description": {
+                        "zh-CN": "特朗普之水",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "stupid",
+                    "path": "stupid.mp3",
+                    "description": {
+                        "zh-CN": "太蠢了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "byebye",
+                    "path": "byebye.mp3",
+                    "description": {
+                        "zh-CN": "再见了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "阿媂娅爱你哟",
+                    "path": "ArtiaLovesYou.mp3",
+                    "description": {
+                        "zh-CN": "阿媂娅爱你哟",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                }
+
+               
+            ]
+
+        },
+        {
+            "categoryName": "❄️ 媂语 ❄️",
+            "categoryDescription": {
+                "zh-CN": "❄️ 媂语 ❄️",
+                "ja-JP": "媂语",
+                "en-US": "媂语"
+            },
+            "voiceList": [
+                {
+                    "name": "naisu1",
+                    "path": "naisu1.mp3",
+                    "description": {
+                        "zh-CN": "奶酥1",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "naisu2",
+                    "path": "naisu2.mp3",
+                    "description": {
+                        "zh-CN": "奶酥2",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "rua1",
+                    "path": "rua1.mp3",
+                    "description": {
+                        "zh-CN": "Rua 1",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "ILoveYouKiuKiu",
+                    "path": "ILoveYouKiuKiu.mp3",
+                    "description": {
+                        "zh-CN": "I Love You 咻咻",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "sleepy",
+                    "path": "sleepy.mp3",
+                    "description": {
+                        "zh-CN": "睡眼惺忪的媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "abuabu",
+                    "path": "abuabu.mp3",
+                    "description": {
+                        "zh-CN": "阿布阿布",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "bukebukebu",
+                    "path": "bukebukebu.mp3",
+                    "description": {
+                        "zh-CN": "布可布可布",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                }
+            ]
+        },
+        {
+            "categoryName": "cute",
+            "categoryDescription": {
+                "zh-CN": "❄️ 可爱 ❄️",
+                "ja-JP": "可爱",
+                "en-US": "Cute"
+            },
+            "voiceList": [
+                {
+                    "name": "起床了",
+                    "path": "getup.mp3",
+                    "description": {
+                        "zh-CN": "起床了",
+                        "ja-JP": "起床了",
+                        "en-US": "起床了"
+                    }
+                },
+                {
+                    "name": "cute",
+                    "path": "cute.mp3",
+                    "description": {
+                        "zh-CN": "我也觉得我很可爱",
+                        "ja-JP": "我也觉得我很可爱",
+                        "en-US": "I think I'm cute"
+                    }
+                },
+                {
+                    "name": "oniichan",
+                    "path": "oniichan.mp3",
+                    "description": {
+                        "zh-CN": "欧尼酱 八嘎 黑太",
+                        "ja-JP": "hentai",
+                        "en-US": "Onii chan Baka Hentai"
+                    }
+                },
+                {
+                    "name": "Yawn",
+                    "path": "Yawn1.mp3",
+                    "description": {
+                        "zh-CN": "打哈欠",
+                        "ja-JP": "打哈欠",
+                        "en-US": "Yawn"
+                    }
+                },
+                {
+                    "name": "Yawn2",
+                    "path": "Yawn2.mp3",
+                    "description": {
+                        "zh-CN": "打哈欠2",
+                        "ja-JP": "打哈欠2",
+                        "en-US": "Yawn2"
+                    }
+                },
+                {
+                    "name": "bakabaka",
+                    "path": "baka.mp3",
+                    "description": {
+                        "zh-CN": "BakaBaka1",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "bakabakabaka",
+                    "path": "Artia_-_Baka_BAKA.mp3",
+                    "description": {
+                        "zh-CN": "BakaBaka2",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_Baka_Hentai_Urusai",
+                    "path": "Artia_-_Baka_Hentai_Urusai.mp3",
+                    "description": {
+                        "zh-CN": "八嘎 黑太 无路赛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "goodnight",
+                    "path": "goodnight.mp3",
+                    "description": {
+                        "zh-CN": "晚安",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                }              
+            ]
+        },
+
+
+
+
+        {
+            "categoryName": "other",
+            "categoryDescription": {
+                "zh-CN": "❄️ 其他 ❄️",
+                "ja-JP": "その他",
+                "en-US": "Other"
+            },
+            "voiceList": [
+                {
+                    "name": "grass",
+                    "path": "grass.mp3",
+                    "description": {
+                        "zh-CN": "草",
+                        "ja-JP": "草",
+                        "en-US": "Grass"
+                    }
+                },
+                {
+                    "name": "yougood",
+                    "path": "yougood.mp3",
+                    "description": {
+                        "zh-CN": "侬脑子瓦塔啦",
+                        "ja-JP": "草",
+                        "en-US": "You good?"
+                    }
+                },
+                {
+                    "name": "BloodPressure",
+                    "path": "BloodPressure.mp3",
+                    "description": {
+                        "zh-CN": "我感觉我血压不行了",
+                        "ja-JP": "我感觉我血压不行了",
+                        "en-US": "我感觉我血压不行了"
+                    }
+                },
+                {
+                    "name": "怕不是个哈包",
+                    "path": "habao.mp3",
+                    "description": {
+                        "zh-CN": "怕不是个哈包",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "ursimp",
+                    "path": "ursimp.mp3",
+                    "description": {
+                        "zh-CN": "我感觉你是个笨蛋",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },                    
+                {
+                    "name": "noheitai",
+                    "path": "noheitai.mp3",
+                    "description": {
+                        "zh-CN": "黑太禁止",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "IevanPolkka",
+                    "path": "IevanPolkka.mp3",
+                    "description": {
+                        "zh-CN": "甩葱歌",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Master",
+                    "path": "Master.mp3",
+                    "description": {
+                        "zh-CN": "你就是我的Master嘛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                }
+                    
+            ]
+        }
+ 
+        
+
+
+            
+        
+    ]
+}
