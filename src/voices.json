@@ -4,8 +4,8 @@
             "categoryName": "❄️ 媂语 ❄️",
             "categoryDescription": {
                 "zh-CN": "❄️ 媂语 ❄️",
-                "ja-JP": "媂语",
-                "en-US": "媂语"
+                "ja-JP": "❄️ 媂语 ❄️",
+                "en-US": "❄️ Artia ❄️"
             },
             "voiceList": [
                 {
@@ -14,7 +14,7 @@
                     "description": {
                         "zh-CN": "喵",
                         "ja-JP": "喵",
-                        "en-US": "Meow Meow Meow"
+                        "en-US": "Meow"
                     }
                 },
                 {
@@ -41,7 +41,7 @@
                 "description": {
                     "zh-CN": "嘿嘿",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Sneer"
                 }
             },
             {
@@ -50,7 +50,7 @@
                 "description": {
                     "zh-CN": "啊",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Alas"
                 }
             },
             {
@@ -59,7 +59,7 @@
                 "description": {
                     "zh-CN": "奶酥1",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu 1"
                 }
             },
             {
@@ -68,7 +68,7 @@
                 "description": {
                     "zh-CN": "奶酥2",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu 2"
                 }
             },
             {
@@ -77,7 +77,7 @@
                 "description": {
                     "zh-CN": "奶酥3",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu 3"
                 }
             },
             {
@@ -86,7 +86,7 @@
                 "description": {
                     "zh-CN": "奶酥4",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu 4"
                 }
             },
             {
@@ -95,7 +95,7 @@
                 "description": {
                     "zh-CN": "奶酥5",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu 5"
                 }
             },
             {
@@ -104,7 +104,7 @@
                 "description": {
                     "zh-CN": "奶酥?",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu?"
                 }
             },
             {
@@ -113,7 +113,7 @@
                 "description": {
                     "zh-CN": "奶酥!",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Naisu!"
                 }
             },
             {
@@ -122,7 +122,7 @@
                 "description": {
                     "zh-CN": "擦盘子1",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Smirk 1"
                 }
             },
             {
@@ -131,7 +131,7 @@
                 "description": {
                     "zh-CN": "擦盘子2",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Smirk 1"
                 }
             },
             {
@@ -140,7 +140,7 @@
                 "description": {
                     "zh-CN": "Rua 1",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Rawr 1"
                 }
             },
             {
@@ -149,7 +149,7 @@
                 "description": {
                     "zh-CN": "Rua 2",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Rawr 2"
                 }
             },
             {
@@ -158,7 +158,7 @@
                 "description": {
                     "zh-CN": "笨蛋1",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Simp 1"
                 }
             },
             {
@@ -167,7 +167,7 @@
                 "description": {
                     "zh-CN": "笨蛋2",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Simp 2"
                 }
             },
             {
@@ -176,16 +176,16 @@
                 "description": {
                     "zh-CN": "笨蛋3",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Simp 3"
                 }
             },
             {
                 "name": "ILoveYouKiuKiu",
                 "path": "ILoveYouKiuKiu.mp3",
                 "description": {
-                    "zh-CN": "I Love You 咻咻",
+                    "zh-CN": "I Love You 啾啾",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "I Love You, Tweeted"
                 }
             },
             {
@@ -194,7 +194,7 @@
                 "description": {
                     "zh-CN": "睡眼惺忪的媂娅",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Sleepy"
                 }
             },
             {
@@ -203,7 +203,7 @@
                 "description": {
                     "zh-CN": "阿巴阿巴",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Aba Aba"
                 }
             },
             {
@@ -212,7 +212,7 @@
                 "description": {
                     "zh-CN": "阿布阿布",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Abu Abu"
                 }
             },
             {
@@ -221,7 +221,7 @@
                 "description": {
                     "zh-CN": "喃喃",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Mumble"
                 }
             },
             {
@@ -230,7 +230,7 @@
                 "description": {
                     "zh-CN": "布可布可布",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "bukebukebu"
                 }
             },
             {
@@ -239,7 +239,7 @@
                 "description": {
                     "zh-CN": "哇",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Wahhhhh"
                 }
             },
             {
@@ -248,7 +248,7 @@
                 "description": {
                     "zh-CN": "耳膜去世1",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Yell 1"
                 }
             },
             {
@@ -257,7 +257,7 @@
                 "description": {
                     "zh-CN": "耳膜去世2",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Yell 2"
                 }
             },
             {
@@ -266,7 +266,7 @@
                 "description": {
                     "zh-CN": "耳膜去世3",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Yell 3"
                 }
             },
             {
@@ -275,7 +275,7 @@
                 "description": {
                     "zh-CN": "耳膜去世4",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Yell 4"
                 }
             },
             {
@@ -284,7 +284,7 @@
                 "description": {
                     "zh-CN": "耳膜去世5",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Yell 5"
                 }
             },
             {
@@ -293,16 +293,16 @@
                 "description": {
                     "zh-CN": "Fubuki",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Fubuki"
                 }
             },
             {
                 "name": "kiukiumaomao",
                 "path": "kiukiumaomao.mp3",
                 "description": {
-                    "zh-CN": "咻咻猫猫",
+                    "zh-CN": "啾啾猫猫",
                     "ja-JP": "1",
-                    "en-US": "2"
+                    "en-US": "Tweeted"
                 }
             }
 
@@ -311,11 +311,11 @@
             ]
         },
         {
-            "categoryName": "英语",
+            "categoryName": "❄️ English ❄️",
             "categoryDescription": {
                 "zh-CN": "❄️ English ❄️",
-                "ja-JP": "English",
-                "en-US": "English"
+                "ja-JP": "❄️ English ❄️",
+                "en-US": "❄️ English ❄️"
             },
             "voiceList": [
                 {
@@ -324,7 +324,7 @@
                     "description": {
                         "zh-CN": "我是Yagoo可爱亚洲女孩",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "I'm Yagoo Cute_Asian Girl"
                     }
                 },
                 {
@@ -333,7 +333,7 @@
                     "description": {
                         "zh-CN": "不要告诉Yagoo",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Don't Tell Yagoo Okay"
                     }
                 },
                 {
@@ -342,7 +342,7 @@
                     "description": {
                         "zh-CN": "Yagoo闭嘴",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Yagoo shutup"
                     }
                 },
                 {
@@ -351,7 +351,7 @@
                     "description": {
                         "zh-CN": "你好哇",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Hell Yah Brother"
                     }
                 },
                 {
@@ -360,7 +360,7 @@
                     "description": {
                         "zh-CN": "干杯",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Pee"
                     }
                 },
                 {
@@ -369,7 +369,7 @@
                     "description": {
                         "zh-CN": "干杯(愤怒)",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Pee(Angry)"
                     }
                 },
                 {
@@ -378,7 +378,7 @@
                     "description": {
                         "zh-CN": "媂娅小时候",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Baby Artia"
                     }
                 },
                 {
@@ -387,16 +387,16 @@
                     "description": {
                         "zh-CN": "ASMR",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "ASMR"
                     }
                 },
                 {
-                    "name": "big_brain_strats",
+                    "name": "big_brain_strat",
                     "path": "big_brain_strats.mp3",
                     "description": {
                         "zh-CN": "大聪明",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Big Brain Strat"
                     }
                 },
                 {
@@ -405,7 +405,7 @@
                     "description": {
                         "zh-CN": "大预言家阿媂娅",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Prophet Artia"
                     }
                 },
                 {
@@ -414,7 +414,7 @@
                     "description": {
                         "zh-CN": "偶像大师阿媂娅",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Idol Artia"
                     }
                 },
                 {
@@ -423,7 +423,7 @@
                     "description": {
                         "zh-CN": "Double Kill",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Double Kill"
                     }
                 },
                 {
@@ -432,7 +432,7 @@
                     "description": {
                         "zh-CN": "Triple Kill",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Triple Kill"
                     }
                 },
                 {
@@ -441,7 +441,7 @@
                     "description": {
                         "zh-CN": "Quadruple Kill",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Quadruple Kill"
                     }
                 },
                 {
@@ -450,7 +450,7 @@
                     "description": {
                         "zh-CN": "不要怂",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Don't Be Afraid Cmon Bruh"
                     }
                 },
                 {
@@ -459,7 +459,7 @@
                     "description": {
                         "zh-CN": "就是干",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "just Fuck them"
                     }
                 },
                 {
@@ -468,7 +468,7 @@
                     "description": {
                         "zh-CN": "WTF",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "WTF"
                     }
                 },
                 {
@@ -477,7 +477,7 @@
                     "description": {
                         "zh-CN": "奶我奶我",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Heal Me"
                     }
                 },
                 {
@@ -486,7 +486,7 @@
                     "description": {
                         "zh-CN": "Bye Baby",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Bye Baby"
                     }
                 },
                 {
@@ -495,7 +495,7 @@
                     "description": {
                         "zh-CN": "Die Die Die",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Die Die Die"
                     }
                 },
                 {
@@ -504,7 +504,7 @@
                     "description": {
                         "zh-CN": "I Want To Touch You",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "I Want To Touch You"
                     }
                 },
                 {
@@ -513,7 +513,7 @@
                     "description": {
                         "zh-CN": "媂娅是猫娘",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "I'm a Cat Girl"
                     }
                 },
                 {
@@ -522,7 +522,7 @@
                     "description": {
                         "zh-CN": "Let's Go Dude",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Let's Go Dude"
                     }
                 },
 
@@ -532,7 +532,7 @@
                     "description": {
                         "zh-CN": "Oh No No No",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Oh No No No"
                     }
                 },
                 {
@@ -541,7 +541,7 @@
                     "description": {
                         "zh-CN": "Holo电竞队",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Holo Esport Team"
                     }
                 },
                 {
@@ -550,7 +550,7 @@
                     "description": {
                         "zh-CN": "为何要带脑子玩游戏",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Why do you must use your brain in a video game"
                     }
                 },
                 {
@@ -559,7 +559,7 @@
                     "description": {
                         "zh-CN": "什么是正能量",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "What is PMA"
                     }
                 },
                 {
@@ -568,7 +568,7 @@
                     "description": {
                         "zh-CN": "正能量主播阿媂娅从不尖叫",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "PMA Streamer Artia Never Yall"
                     }
                 },
                 {
@@ -577,7 +577,7 @@
                     "description": {
                         "zh-CN": "正能量主播阿媂娅从不愤怒",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "PMA Streamer Artia Never Rage"
                     }
                 },
                 {
@@ -586,7 +586,7 @@
                     "description": {
                         "zh-CN": "假装清楚的阿媂娅",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "I didn't say F"
                     }
                 },
                 {
@@ -595,7 +595,7 @@
                     "description": {
                         "zh-CN": "我感觉你是个笨蛋",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "I think you are just simp"
                     }
                 },                    
                 {
@@ -604,16 +604,7 @@
                     "description": {
                         "zh-CN": "黑太禁止",
                         "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "Master",
-                    "path": "Master.mp3",
-                    "description": {
-                        "zh-CN": "你就是我的Master嘛",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "No heitai is allowed"
                     }
                 },
                 {
@@ -622,7 +613,7 @@
                     "description": {
                         "zh-CN": "上啊上啊",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Don't be a pussy"
                     }
                 },
                 {
@@ -631,7 +622,7 @@
                     "description": {
                         "zh-CN": "又忘关麦",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "My mic was on"
                     }
                 },
                 {
@@ -640,7 +631,7 @@
                     "description": {
                         "zh-CN": "担心被Discord杀",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Pepega Spamer"
                     }
                 },
                 {
@@ -649,7 +640,7 @@
                     "description": {
                         "zh-CN": "Nae Nae",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Nae Nae"
                     }
                 },
                 {
@@ -658,7 +649,7 @@
                     "description": {
                         "zh-CN": "运营不会英语",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "My manager doesn't know English"
                     }
                 },
                 {
@@ -667,7 +658,7 @@
                     "description": {
                         "zh-CN": "好好看媂娅打游戏啊啊",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "No Marbles"
                     }
                 },
                 {
@@ -676,7 +667,7 @@
                     "description": {
                         "zh-CN": "特朗普之水",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Trump Water"
                     }
                 },
                 {
@@ -685,7 +676,7 @@
                     "description": {
                         "zh-CN": "太蠢了",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "So stupid"
                     }
                 },
                 {
@@ -694,7 +685,7 @@
                     "description": {
                         "zh-CN": "晚安",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Good Night"
                     }
                 },    
                 {
@@ -703,7 +694,7 @@
                     "description": {
                         "zh-CN": "再见了",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Thank you for coming"
                     }
                 },
                 {
@@ -712,7 +703,7 @@
                     "description": {
                         "zh-CN": "阿媂娅爱你哟",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Because Artia loves you guys"
                     }
                 }
 
@@ -722,11 +713,11 @@
         },
 
         {
-            "categoryName": "cute",
+            "categoryName": "❄️ 可爱 ❄️",
             "categoryDescription": {
                 "zh-CN": "❄️ 可爱 ❄️",
-                "ja-JP": "可爱",
-                "en-US": "Cute"
+                "ja-JP": "❄️ 可爱 ❄️",
+                "en-US": "❄️ Cute ❄️"
             },
             "voiceList": [
                 {
@@ -735,7 +726,7 @@
                     "description": {
                         "zh-CN": "突突突",
                         "ja-JP": "起床了",
-                        "en-US": "起床了"
+                        "en-US": "Tututu"
                     }
                 },
                 {
@@ -753,7 +744,16 @@
                     "description": {
                         "zh-CN": "我也觉得我很可爱",
                         "ja-JP": "我也觉得我很可爱",
-                        "en-US": "I think I'm cute"
+                        "en-US": "我也觉得我很可爱"
+                    }
+                },
+                {
+                    "name": "Master",
+                    "path": "Master.mp3",
+                    "description": {
+                        "zh-CN": "你就是我的Master嘛",
+                        "ja-JP": "1",
+                        "en-US": "I ask of you. Are you my master"
                     }
                 },
                 {
@@ -771,7 +771,7 @@
                     "description": {
                         "zh-CN": "你要干嘛",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "你要干嘛"
                     }
                 },
                 {
@@ -780,7 +780,7 @@
                     "description": {
                         "zh-CN": "不要过来",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "不要过来"
                     }
                 },
                 {
@@ -789,7 +789,7 @@
                     "description": {
                         "zh-CN": "不要睡我",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "不要睡我"
                     }
                 },
                 {
@@ -798,7 +798,7 @@
                     "description": {
                         "zh-CN": "媂媂不喜欢",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "媂媂不喜欢"
                     }
                 },
                 {
@@ -807,16 +807,16 @@
                     "description": {
                         "zh-CN": "噔噔咚",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Complacent"
                     }
                 },
                 {
                     "name": "520-5",
-                    "path": "520-5.mp3.mp3",
+                    "path": "520-5.mp3",
                     "description": {
                         "zh-CN": "吼啦迷迭吼啦哟",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Inugami Korone"
                     }
                 },
                 {
@@ -825,7 +825,7 @@
                     "description": {
                         "zh-CN": "棒棒",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "棒棒"
                     }
                 },
                 {
@@ -834,7 +834,7 @@
                     "description": {
                         "zh-CN": "你也想要头像嘛",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "你也想要头像嘛"
                     }
                 },
                 {
@@ -843,7 +843,7 @@
                     "description": {
                         "zh-CN": "What is the melody",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "What is the melody"
                     }
                 },
                 {
@@ -852,7 +852,7 @@
                     "description": {
                         "zh-CN": "妈妈接我",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "妈妈接我"
                     }
                 },
                 {
@@ -861,7 +861,7 @@
                     "description": {
                         "zh-CN": "妈妈奶我",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "妈妈奶我"
                     }
                 },
                 {
@@ -870,7 +870,7 @@
                     "description": {
                         "zh-CN": "妈妈奶我(大声)",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "妈妈奶我(大声)"
                     }
                 },
                 {
@@ -879,7 +879,7 @@
                     "description": {
                         "zh-CN": "给我吃",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "给我吃"
                     }
                 },
                 {
@@ -888,7 +888,7 @@
                     "description": {
                         "zh-CN": "打哈欠",
                         "ja-JP": "打哈欠",
-                        "en-US": "Yawn"
+                        "en-US": "Yawn 1"
                     }
                 },
                 {
@@ -897,25 +897,25 @@
                     "description": {
                         "zh-CN": "打哈欠2",
                         "ja-JP": "打哈欠2",
-                        "en-US": "Yawn2"
+                        "en-US": "Yawn 2"
                     }
                 },
                 {
                     "name": "bakabaka",
                     "path": "baka.mp3",
                     "description": {
-                        "zh-CN": "BakaBaka1",
+                        "zh-CN": "BakaBaka 1",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "BakaBaka 1"
                     }
                 },
                 {
                     "name": "bakabakabaka",
                     "path": "Artia_-_Baka_BAKA.mp3",
                     "description": {
-                        "zh-CN": "BakaBaka2",
+                        "zh-CN": "BakaBaka 2",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "BakaBaka 2"
                     }
                 },
                 {
@@ -924,7 +924,7 @@
                     "description": {
                         "zh-CN": "八嘎 黑太 无路赛",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Baka Hentai Urusai"
                     }
                 },
                 {
@@ -933,7 +933,7 @@
                     "description": {
                         "zh-CN": "死了吧笨蛋哼",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "死了吧笨蛋哼"
                     }
                 },
                 {
@@ -942,7 +942,7 @@
                     "description": {
                         "zh-CN": "阿媂娅是笨蛋",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "阿媂娅是笨蛋"
                     }
                 },
                 {
@@ -951,7 +951,7 @@
                     "description": {
                         "zh-CN": "讨厌",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "讨厌"
                     }
                 },
                 {
@@ -960,7 +960,7 @@
                     "description": {
                         "zh-CN": "本小姐世界最强",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "本小姐世界最强"
                     }
                 },
                 {
@@ -969,7 +969,7 @@
                     "description": {
                         "zh-CN": "讨厌 八嘎",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "讨厌 八嘎"
                     }
                 },
                 {
@@ -978,7 +978,7 @@
                     "description": {
                         "zh-CN": "没子弹了",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "没子弹了"
                     }
                 },
                 {
@@ -987,7 +987,7 @@
                     "description": {
                         "zh-CN": "呀妈妈",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Pow"
                     }
                 },
                 {
@@ -996,7 +996,7 @@
                     "description": {
                         "zh-CN": "你干嘛疼疼",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "你干嘛疼疼"
                     }
                 },
                 {
@@ -1005,7 +1005,7 @@
                     "description": {
                         "zh-CN": "好痛啊",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "好痛啊"
                     }
                 },
                 {
@@ -1014,7 +1014,7 @@
                     "description": {
                         "zh-CN": "好可爱啊",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "好可爱啊"
                     }
                 },
                 {
@@ -1022,8 +1022,8 @@
                     "path": "Youkawaii2.mp3",
                     "description": {
                         "zh-CN": "欺负你们好开心啊",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "欺负你们好开心啊",
+                        "en-US": "欺负你们好开心啊"
                     }
                 },
                 {
@@ -1031,8 +1031,8 @@
                     "path": "youkindergarten.mp3",
                     "description": {
                         "zh-CN": "你才是幼儿园",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "你才是幼儿园",
+                        "en-US": "你才是幼儿园"
                     }
                 },
                 {
@@ -1040,8 +1040,8 @@
                     "path": "waitingforyou.mp3",
                     "description": {
                         "zh-CN": "等着你",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "等着你",
+                        "en-US": "等着你"
                     }
                 },
                 {
@@ -1049,8 +1049,8 @@
                     "path": "tuturu.mp3",
                     "description": {
                         "zh-CN": "Tuturu",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "Tuturu",
+                        "en-US": "Tuturu"
                     }
                 },
                 {
@@ -1059,7 +1059,7 @@
                     "description": {
                         "zh-CN": "Let's go baby",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "Let's go baby"
                     }
                 },
                 {
@@ -1068,7 +1068,7 @@
                     "description": {
                         "zh-CN": "OW500强阿媂娅",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "OW Top 500"
                     }
                 }            
             ]
@@ -1082,7 +1082,7 @@
             "categoryDescription": {
                 "zh-CN": "❄️ 其他 ❄️",
                 "ja-JP": "その他",
-                "en-US": "Other"
+                "en-US": "❄️ Other ❄️"
             },
             "voiceList": [
                 {
@@ -1091,7 +1091,7 @@
                     "description": {
                         "zh-CN": "草",
                         "ja-JP": "草",
-                        "en-US": "Grass"
+                        "en-US": "草"
                     }
                 },
                 {
@@ -1108,8 +1108,8 @@
                     "path": "600.mp3",
                     "description": {
                         "zh-CN": "好人一生平安",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "好人一生平安",
+                        "en-US": "好人一生平安"
                     }
                 },
                 {
@@ -1117,8 +1117,8 @@
                     "path": "bazhu.mp3",
                     "description": {
                         "zh-CN": "别叫媂娅吧主了",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "别叫媂娅吧主了",
+                        "en-US": "别叫媂娅吧主了"
                     }
                 },
                 {
@@ -1126,8 +1126,8 @@
                     "path": "602.mp3",
                     "description": {
                         "zh-CN": "阿媂娅可以也是吧主",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "阿媂娅可以也是吧主",
+                        "en-US": "阿媂娅可以也是吧主"
                     }
                 },
                 {
@@ -1135,8 +1135,8 @@
                     "path": "603.mp3",
                     "description": {
                         "zh-CN": "媂吧出征寸草不生",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "媂吧出征寸草不生",
+                        "en-US": "媂吧出征寸草不生"
                     }
                 },
                 {
@@ -1144,8 +1144,8 @@
                     "path": "606.mp3",
                     "description": {
                         "zh-CN": "懂得都懂",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "懂得都懂",
+                        "en-US": "懂得都懂"
                     }
                 },
                 {
@@ -1153,8 +1153,8 @@
                     "path": "azhe.mp3",
                     "description": {
                         "zh-CN": "啊这",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "啊这",
+                        "en-US": "啊这"
                     }
                 },
                 {
@@ -1162,8 +1162,8 @@
                     "path": "sorrysorrysorry.mp3",
                     "description": {
                         "zh-CN": "对不起对不起对不起",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "对不起对不起对不起",
+                        "en-US": "对不起对不起对不起"
                     }
                 },
                 {
@@ -1171,8 +1171,8 @@
                     "path": "605.mp3",
                     "description": {
                         "zh-CN": "网上冲浪好玩",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "网上冲浪好玩",
+                        "en-US": "网上冲浪好玩"
                     }
                 },
                 {
@@ -1180,8 +1180,8 @@
                     "path": "599.mp3",
                     "description": {
                         "zh-CN": "阿媂娅才没有错呢",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
+                        "ja-JP": "阿媂娅才没有错呢",
+                        "en-US": "阿媂娅才没有错呢"
                     }
                 },
                 {
@@ -1189,8 +1189,8 @@
                     "path": "1-7.mp3",
                     "description": {
                         "zh-CN": "干他",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "干他",
+                        "en-US": "干他"
                     }
                 },
                 {
@@ -1198,8 +1198,8 @@
                     "path": "ganta.mp3",
                     "description": {
                         "zh-CN": "干他！！",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "干他！！",
+                        "en-US": "干他！！"
                     }
                 },
                 {
@@ -1207,8 +1207,8 @@
                     "path": "bfnotgood.mp3",
                     "description": {
                         "zh-CN": "这男朋友不行",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "这男朋友不行",
+                        "en-US": "这男朋友不行"
                     }
                 },
                 {
@@ -1216,8 +1216,8 @@
                     "path": "suan1.mp3",
                     "description": {
                         "zh-CN": "这怎么酸了",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "这怎么酸了",
+                        "en-US": "这怎么酸了"
                     }
                 },
                 {
@@ -1225,8 +1225,8 @@
                     "path": "suan2.mp3",
                     "description": {
                         "zh-CN": "还说我憨",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "还说我憨",
+                        "en-US": "还说我憨"
                     }
                 },
                 {
@@ -1234,8 +1234,8 @@
                     "path": "299.mp3",
                     "description": {
                         "zh-CN": "被唯一女爸爸说傻的媂娅",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "被唯一女爸爸说傻的媂娅",
+                        "en-US": "被唯一女爸爸说傻的媂娅"
                     }
                 },
                 {
@@ -1243,8 +1243,8 @@
                     "path": "nvfen.mp3",
                     "description": {
                         "zh-CN": "什么唯一女粉",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "什么唯一女粉",
+                        "en-US": "什么唯一女粉"
                     }
                 },
                 {
@@ -1252,8 +1252,8 @@
                     "path": "5.29-1.mp3",
                     "description": {
                         "zh-CN": "德玛西亚人在塔在",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "德玛西亚人在塔在",
+                        "en-US": "德玛西亚人在塔在"
                     }
                 },
                 {
@@ -1261,8 +1261,8 @@
                     "path": "5.29-2.mp3",
                     "description": {
                         "zh-CN": "师傅别念了",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "师傅别念了",
+                        "en-US": "师傅别念了"
                     }
                 },
                 {
@@ -1270,8 +1270,8 @@
                     "path": "1-11.mp3",
                     "description": {
                         "zh-CN": "这个人对着我脸上射",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "这个人对着我脸上射",
+                        "en-US": "这个人对着我脸上射"
                     }
                 },
                 {
@@ -1279,8 +1279,8 @@
                     "path": "yougood.mp3",
                     "description": {
                         "zh-CN": "侬脑子瓦塔啦",
-                        "ja-JP": "草",
-                        "en-US": "You good?"
+                        "ja-JP": "侬脑子瓦塔啦",
+                        "en-US": "侬脑子瓦塔啦"
                     }
                 },
                 {
@@ -1288,8 +1288,8 @@
                     "path": "1-14.mp3",
                     "description": {
                         "zh-CN": "水之呼吸阿媂娅",
-                        "ja-JP": "草",
-                        "en-US": "You good?"
+                        "ja-JP": "水之呼吸阿媂娅",
+                        "en-US": "水之呼吸阿媂娅"
                     }
                 },
                 {
@@ -1297,8 +1297,8 @@
                     "path": "1-13.mp3",
                     "description": {
                         "zh-CN": "妈妈不要",
-                        "ja-JP": "草",
-                        "en-US": "You good?"
+                        "ja-JP": "妈妈不要",
+                        "en-US": "妈妈不要?"
                     }
                 },
                 {
@@ -1315,8 +1315,8 @@
                     "path": "520-1.mp3",
                     "description": {
                         "zh-CN": "在521被打自闭的媂娅",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "在521被打自闭的媂娅",
+                        "en-US": "在521被打自闭的媂娅"
                     }
                 },
                 {
@@ -1324,8 +1324,8 @@
                     "path": "520-2.mp3",
                     "description": {
                         "zh-CN": "但是你们开心就没关系",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "但是你们开心就没关系",
+                        "en-US": "但是你们开心就没关系"
                     }
                 },
                 {
@@ -1333,8 +1333,8 @@
                     "path": "520-4.mp3",
                     "description": {
                         "zh-CN": "觉得自己像大葱",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "觉得自己像大葱",
+                        "en-US": "觉得自己像大葱"
                     }
                 },
                 {
@@ -1342,8 +1342,8 @@
                     "path": "200.mp3",
                     "description": {
                         "zh-CN": "大家辛苦的样子真是太棒了呢",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "大家辛苦的样子真是太棒了呢",
+                        "en-US": "大家辛苦的样子真是太棒了呢"
                     }
                 },
                 {
@@ -1351,8 +1351,8 @@
                     "path": "6.1-1.mp3",
                     "description": {
                         "zh-CN": "被队友演戏的媂娅",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "被队友演戏的媂娅",
+                        "en-US": "被队友演戏的媂娅"
                     }
                 },
                 {
@@ -1360,8 +1360,8 @@
                     "path": "6.1-2.mp3",
                     "description": {
                         "zh-CN": "被队友气炸的媂娅",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "被队友气炸的媂娅",
+                        "en-US": "被队友气炸的媂娅"
                     }
                 },
                 {
@@ -1369,8 +1369,8 @@
                     "path": "6.1-4.mp3",
                     "description": {
                         "zh-CN": "你们饭没了",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "你们饭没了",
+                        "en-US": "你们饭没了"
                     }
                 },
                 {
@@ -1378,8 +1378,8 @@
                     "path": "ArtiasMidnightDiner.mp3",
                     "description": {
                         "zh-CN": "媂氏大排档",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "媂氏大排档",
+                        "en-US": "媂氏大排档"
                     }
                 },
                 {
@@ -1387,8 +1387,8 @@
                     "path": "20Youbaka.mp3",
                     "description": {
                         "zh-CN": "你们才是笨蛋",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "你们才是笨蛋",
+                        "en-US": "你们才是笨蛋"
                     }
                 },
                 {
@@ -1396,8 +1396,8 @@
                     "path": "20Artiajiaonizhuinansheng.mp3",
                     "description": {
                         "zh-CN": "媂娅教你追女孩子",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "媂娅教你追女孩子",
+                        "en-US": "媂娅教你追女孩子"
                     }
                 },
                 {
@@ -1405,8 +1405,8 @@
                     "path": "199.mp3.mp3",
                     "description": {
                         "zh-CN": "喜欢[大冰棒]对吧",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "喜欢[大冰棒]对吧",
+                        "en-US": "喜欢[大冰棒]对吧"
                     }
                 },
                 {
@@ -1414,8 +1414,8 @@
                     "path": "strive.mp3",
                     "description": {
                         "zh-CN": "好好努力哦",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "好好努力哦",
+                        "en-US": "好好努力哦"
                     }
                 },
                 {
@@ -1423,8 +1423,8 @@
                     "path": "GoldWillGlitter.mp3",
                     "description": {
                         "zh-CN": "是金子总有一天会发光的",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "是金子总有一天会发光的",
+                        "en-US": "是金子总有一天会发光的"
                     }
                 },
                 {
@@ -1432,8 +1432,8 @@
                     "path": "female.mp3",
                     "description": {
                         "zh-CN": "女孩子也是哦",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "女孩子也是哦",
+                        "en-US": "女孩子也是哦"
                     }
                 },
                 {
@@ -1441,8 +1441,8 @@
                     "path": "201.mp3",
                     "description": {
                         "zh-CN": "最喜欢大家了",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "最喜欢大家了",
+                        "en-US": "最喜欢大家了"
                     }
                 },                
                 {
@@ -1450,8 +1450,8 @@
                     "path": "88rua.mp3",
                     "description": {
                         "zh-CN": "拜拜",
-                        "ja-JP": "1",
-                        "en-US": "2"
+                        "ja-JP": "拜拜",
+                        "en-US": "拜拜"
                     }
                 },
                 {
@@ -1460,16 +1460,16 @@
                     "description": {
                         "zh-CN": "[甩葱歌]",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "[Ievan Polkka]"
                     }
                 },
                 {
                     "name": "wananqu",
-                    "path": "Iwananqu.mp3",
+                    "path": "wananqu.mp3",
                     "description": {
                         "zh-CN": "[晚安曲]",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "[晚安曲]"
                     }
                 },
                 {
@@ -1478,7 +1478,7 @@
                     "description": {
                         "zh-CN": "[炭治郎之歌]",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "[Kamado Tanjirou no uta]"
                     }
                 },
                 {
@@ -1487,7 +1487,7 @@
                     "description": {
                         "zh-CN": "[远枫]",
                         "ja-JP": "1",
-                        "en-US": "2"
+                        "en-US": "[Maple Wind]"
                     }
                 }
                     
