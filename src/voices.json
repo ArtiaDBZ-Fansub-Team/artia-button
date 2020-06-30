@@ -1,11 +1,11 @@
 {
     "voices": [
         {
-            "categoryName": "actmoe",
+            "categoryName": "❄️ 媂语 ❄️",
             "categoryDescription": {
-                "zh-CN": "❄️ 萌 ❄️",
-                "ja-JP": "萌え",
-                "en-US": "Moe"
+                "zh-CN": "❄️ 媂语 ❄️",
+                "ja-JP": "媂语",
+                "en-US": "媂语"
             },
             "voiceList": [
                 {
@@ -40,6 +40,204 @@
                 "path": "hehe.mp3",
                 "description": {
                     "zh-CN": "嘿嘿",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-12",
+                "path": "1-12.mp3",
+                "description": {
+                    "zh-CN": "啊",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu1",
+                "path": "naisu1.mp3",
+                "description": {
+                    "zh-CN": "奶酥1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu2",
+                "path": "naisu2.mp3",
+                "description": {
+                    "zh-CN": "奶酥2",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu3",
+                "path": "naisu3.mp3",
+                "description": {
+                    "zh-CN": "奶酥3",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu4",
+                "path": "naisu4.mp3",
+                "description": {
+                    "zh-CN": "奶酥4",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu7",
+                "path": "naisu7.mp3",
+                "description": {
+                    "zh-CN": "奶酥5",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu5",
+                "path": "naisu5.mp3",
+                "description": {
+                    "zh-CN": "奶酥?",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "naisu6",
+                "path": "naisu6.mp3",
+                "description": {
+                    "zh-CN": "奶酥!",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-6",
+                "path": "1-6.mp3",
+                "description": {
+                    "zh-CN": "擦盘子1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-17",
+                "path": "1-17.mp3",
+                "description": {
+                    "zh-CN": "擦盘子2",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "rua1",
+                "path": "rua1.mp3",
+                "description": {
+                    "zh-CN": "Rua 1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "rua2",
+                "path": "ruarua.mp3",
+                "description": {
+                    "zh-CN": "Rua 2",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "bendan1",
+                "path": "400.mp3",
+                "description": {
+                    "zh-CN": "笨蛋1",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "bendan2",
+                "path": "bendan.mp3",
+                "description": {
+                    "zh-CN": "笨蛋2",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "bendan3",
+                "path": "bendan2.mp3",
+                "description": {
+                    "zh-CN": "笨蛋3",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "ILoveYouKiuKiu",
+                "path": "ILoveYouKiuKiu.mp3",
+                "description": {
+                    "zh-CN": "I Love You 咻咻",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "sleepy",
+                "path": "sleepy.mp3",
+                "description": {
+                    "zh-CN": "睡眼惺忪的媂娅",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "abaabaabaaba",
+                "path": "abaabaabaaba.mp3",
+                "description": {
+                    "zh-CN": "阿巴阿巴",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "abuabu",
+                "path": "abuabu.mp3",
+                "description": {
+                    "zh-CN": "阿布阿布",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "1-8",
+                "path": "1-8.mp3",
+                "description": {
+                    "zh-CN": "喃喃",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "bukebukebu",
+                "path": "bukebukebu.mp3",
+                "description": {
+                    "zh-CN": "布可布可布",
+                    "ja-JP": "1",
+                    "en-US": "2"
+                }
+            },
+            {
+                "name": "Wahhhhh",
+                "path": "Artia_-_Wahhhhh.mp3",
+                "description": {
+                    "zh-CN": "哇",
                     "ja-JP": "1",
                     "en-US": "2"
                 }
@@ -90,24 +288,23 @@
                 }
             },
             {
-                "name": "1-12",
-                "path": "1-12.mp3",
+                "name": "Fukubi",
+                "path": "399.mp3",
                 "description": {
-                    "zh-CN": "啊1",
+                    "zh-CN": "Fubuki",
                     "ja-JP": "1",
                     "en-US": "2"
                 }
             },
-
-                {
-                    "name": "a",
-                    "path": "a.mp3",
-                    "description": {
-                        "zh-CN": "啊2",
-                        "ja-JP": "a",
-                        "en-US": "Shriek"
-                    }
+            {
+                "name": "kiukiumaomao",
+                "path": "kiukiumaomao.mp3",
+                "description": {
+                    "zh-CN": "咻咻猫猫",
+                    "ja-JP": "1",
+                    "en-US": "2"
                 }
+            }
 
                
 
@@ -116,7 +313,7 @@
         {
             "categoryName": "英语",
             "categoryDescription": {
-                "zh-CN": "❄️ 英语 ❄️",
+                "zh-CN": "❄️ English ❄️",
                 "ja-JP": "English",
                 "en-US": "English"
             },
@@ -126,6 +323,24 @@
                     "path": "Im_Yagoo_Cute_Asian_Girl.mp3",
                     "description": {
                         "zh-CN": "我是Yagoo可爱亚洲女孩",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "DontTellYagoo",
+                    "path": "Artia_-_Don'tTellYagooOkay.mp3",
+                    "description": {
+                        "zh-CN": "不要告诉Yagoo",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Yagooshutup",
+                    "path": "Yagooshutup.mp3",
+                    "description": {
+                        "zh-CN": "Yagoo闭嘴",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -212,6 +427,24 @@
                     }
                 },
                 {
+                    "name": "TripleKill",
+                    "path": "TripleKill.mp3",
+                    "description": {
+                        "zh-CN": "Triple Kill",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "QuadrupleKill",
+                    "path": "QuadrupleKill.mp3",
+                    "description": {
+                        "zh-CN": "Quadruple Kill",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "Artia_-_Dont_Be_Afraid_Cmon_Bruh",
                     "path": "Artia_-_Dont_Be_Afraid_Cmon_Bruh.mp3",
                     "description": {
@@ -243,6 +476,61 @@
                     "path": "HealMe.mp3",
                     "description": {
                         "zh-CN": "奶我奶我",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "ByeBaby",
+                    "path": "Artia_-_ByeBaby.mp3",
+                    "description": {
+                        "zh-CN": "Bye Baby",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Die_Die_Die",
+                    "path": "Artia_-_Die_Die_Die.mp3",
+                    "description": {
+                        "zh-CN": "Die Die Die",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "I_Want_To_Touch_You",
+                    "path": "Artia_-_I_Want_To_Touch_You.mp3",
+                    "description": {
+                        "zh-CN": "I Want To Touch You",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "ImACatGirl",
+                    "path": "Artia_-_ImACatGirl.mp3",
+                    "description": {
+                        "zh-CN": "媂娅是猫娘",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Artia_-_Lets_Go_Dude",
+                    "path": "Artia_-_Lets_Go_Dude.mp3",
+                    "description": {
+                        "zh-CN": "Let's Go Dude",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+
+                {
+                    "name": "OhNoNoNo",
+                    "path": "Artia_-_OhNoNoNo.mp3",
+                    "description": {
+                        "zh-CN": "Oh No No No",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -432,151 +720,7 @@
             ]
 
         },
-        {
-            "categoryName": "❄️ 媂语 ❄️",
-            "categoryDescription": {
-                "zh-CN": "❄️ 媂语 ❄️",
-                "ja-JP": "媂语",
-                "en-US": "媂语"
-            },
-            "voiceList": [
-                {
-                    "name": "naisu1",
-                    "path": "naisu1.mp3",
-                    "description": {
-                        "zh-CN": "奶酥1",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "naisu2",
-                    "path": "naisu2.mp3",
-                    "description": {
-                        "zh-CN": "奶酥2",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "naisu3",
-                    "path": "naisu3.mp3",
-                    "description": {
-                        "zh-CN": "奶酥3",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "naisu4",
-                    "path": "naisu4.mp3",
-                    "description": {
-                        "zh-CN": "奶酥4",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "naisu5",
-                    "path": "naisu5.mp3",
-                    "description": {
-                        "zh-CN": "奶酥?",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "naisu6",
-                    "path": "naisu6.mp3",
-                    "description": {
-                        "zh-CN": "奶酥!",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "1-6",
-                    "path": "1-6.mp3",
-                    "description": {
-                        "zh-CN": "擦盘子1",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "1-17",
-                    "path": "1-17.mp3",
-                    "description": {
-                        "zh-CN": "擦盘子2",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "rua1",
-                    "path": "rua1.mp3",
-                    "description": {
-                        "zh-CN": "Rua 1",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "ILoveYouKiuKiu",
-                    "path": "ILoveYouKiuKiu.mp3",
-                    "description": {
-                        "zh-CN": "I Love You 咻咻",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "sleepy",
-                    "path": "sleepy.mp3",
-                    "description": {
-                        "zh-CN": "睡眼惺忪的媂娅",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "abuabu",
-                    "path": "abuabu.mp3",
-                    "description": {
-                        "zh-CN": "阿布阿布",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "1-8",
-                    "path": "1-8.mp3",
-                    "description": {
-                        "zh-CN": "喃喃",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "bukebukebu",
-                    "path": "bukebukebu.mp3",
-                    "description": {
-                        "zh-CN": "布可布可布",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                },
-                {
-                    "name": "kiukiumaomao",
-                    "path": "kiukiumaomao.mp3",
-                    "description": {
-                        "zh-CN": "咻咻猫猫",
-                        "ja-JP": "1",
-                        "en-US": "2"
-                    }
-                }
-            ]
-        },
+
         {
             "categoryName": "cute",
             "categoryDescription": {
@@ -667,6 +811,15 @@
                     }
                 },
                 {
+                    "name": "520-5",
+                    "path": "520-5.mp3.mp3",
+                    "description": {
+                        "zh-CN": "吼啦迷迭吼啦哟",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "bangbang",
                     "path": "bangbang.mp3",
                     "description": {
@@ -676,10 +829,19 @@
                     }
                 },
                 {
+                    "name": "你也想要头像嘛",
+                    "path": "401.mp3",
+                    "description": {
+                        "zh-CN": "你也想要头像嘛",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "whatisthatmelody",
                     "path": "whatisthatmelody.mp3",
                     "description": {
-                        "zh-CN": "What is that melody",
+                        "zh-CN": "What is the melody",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -784,6 +946,15 @@
                     }
                 },
                 {
+                    "name": "taoyan",
+                    "path": "taoyan.mp3",
+                    "description": {
+                        "zh-CN": "讨厌",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "imthebest",
                     "path": "imthebest.mp3",
                     "description": {
@@ -802,6 +973,15 @@
                     }
                 },
                 {
+                    "name": "Iamout",
+                    "path": "Iamout.mp3",
+                    "description": {
+                        "zh-CN": "没子弹了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "mama",
                     "path": "mama.mp3",
                     "description": {
@@ -815,6 +995,60 @@
                     "path": "1-16.mp3",
                     "description": {
                         "zh-CN": "你干嘛疼疼",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "hurt",
+                    "path": "hurt.mp3",
+                    "description": {
+                        "zh-CN": "好痛啊",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Youkawaii3",
+                    "path": "Youkawaii3.mp3",
+                    "description": {
+                        "zh-CN": "好可爱啊",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "Youkawaii2",
+                    "path": "Youkawaii2.mp3",
+                    "description": {
+                        "zh-CN": "欺负你们好开心啊",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "youkindergarten",
+                    "path": "youkindergarten.mp3",
+                    "description": {
+                        "zh-CN": "你才是幼儿园",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "waitingforyou",
+                    "path": "waitingforyou.mp3",
+                    "description": {
+                        "zh-CN": "等着你",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "tuturu",
+                    "path": "tuturu.mp3",
+                    "description": {
+                        "zh-CN": "Tuturu",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -861,6 +1095,186 @@
                     }
                 },
                 {
+                    "name": "怕不是个哈包",
+                    "path": "habao.mp3",
+                    "description": {
+                        "zh-CN": "怕不是个哈包",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "好人一生平安",
+                    "path": "600.mp3",
+                    "description": {
+                        "zh-CN": "好人一生平安",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "别叫媂娅吧主了",
+                    "path": "bazhu.mp3",
+                    "description": {
+                        "zh-CN": "别叫媂娅吧主了",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "阿媂娅可以是吧主",
+                    "path": "602.mp3",
+                    "description": {
+                        "zh-CN": "阿媂娅可以也是吧主",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "媂吧出征寸草不生",
+                    "path": "603.mp3",
+                    "description": {
+                        "zh-CN": "媂吧出征寸草不生",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "懂得都懂",
+                    "path": "606.mp3",
+                    "description": {
+                        "zh-CN": "懂得都懂",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "azhe",
+                    "path": "azhe.mp3",
+                    "description": {
+                        "zh-CN": "啊这",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "sorrysorrysorry",
+                    "path": "sorrysorrysorry.mp3",
+                    "description": {
+                        "zh-CN": "对不起对不起对不起",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "网上冲浪好玩",
+                    "path": "605.mp3",
+                    "description": {
+                        "zh-CN": "网上冲浪好玩",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "阿媂娅才没有错呢",
+                    "path": "599.mp3",
+                    "description": {
+                        "zh-CN": "阿媂娅才没有错呢",
+                        "ja-JP": "怕不是个哈包",
+                        "en-US": "怕不是个哈包"
+                    }
+                },
+                {
+                    "name": "1-7",
+                    "path": "1-7.mp3",
+                    "description": {
+                        "zh-CN": "干他",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "ganta",
+                    "path": "ganta.mp3",
+                    "description": {
+                        "zh-CN": "干他！！",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "这男朋友不行",
+                    "path": "bfnotgood.mp3",
+                    "description": {
+                        "zh-CN": "这男朋友不行",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "suan1",
+                    "path": "suan1.mp3",
+                    "description": {
+                        "zh-CN": "这怎么酸了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "suan2",
+                    "path": "suan2.mp3",
+                    "description": {
+                        "zh-CN": "还说我憨",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "299",
+                    "path": "299.mp3",
+                    "description": {
+                        "zh-CN": "被唯一女爸爸说傻的媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "什么唯一女粉",
+                    "path": "nvfen.mp3",
+                    "description": {
+                        "zh-CN": "什么唯一女粉",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "德玛西亚人在塔在",
+                    "path": "5.29-1.mp3",
+                    "description": {
+                        "zh-CN": "德玛西亚人在塔在",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "师傅别念了",
+                    "path": "5.29-2.mp3",
+                    "description": {
+                        "zh-CN": "师傅别念了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "1-11",
+                    "path": "1-11.mp3",
+                    "description": {
+                        "zh-CN": "这个人对着我脸上射",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "yougood",
                     "path": "yougood.mp3",
                     "description": {
@@ -897,37 +1311,100 @@
                     }
                 },
                 {
-                    "name": "怕不是个哈包",
-                    "path": "habao.mp3",
+                    "name": "520-1",
+                    "path": "520-1.mp3",
                     "description": {
-                        "zh-CN": "怕不是个哈包",
-                        "ja-JP": "怕不是个哈包",
-                        "en-US": "怕不是个哈包"
-                    }
-                },
-                {
-                    "name": "1-7",
-                    "path": "1-7.mp3",
-                    "description": {
-                        "zh-CN": "干他",
+                        "zh-CN": "在521被打自闭的媂娅",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
                 },
                 {
-                    "name": "1-11",
-                    "path": "1-11.mp3",
+                    "name": "520-2",
+                    "path": "520-2.mp3",
                     "description": {
-                        "zh-CN": "这个人对着我脸上射",
+                        "zh-CN": "但是你们开心就没关系",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
                 },
                 {
-                    "name": "study",
-                    "path": "study.mp3",
+                    "name": "520-4",
+                    "path": "520-4.mp3",
                     "description": {
-                        "zh-CN": "好好学习哦",
+                        "zh-CN": "觉得自己像大葱",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "200",
+                    "path": "200.mp3",
+                    "description": {
+                        "zh-CN": "大家辛苦的样子真是太棒了呢",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "被队友演戏的媂娅",
+                    "path": "6.1-1.mp3",
+                    "description": {
+                        "zh-CN": "被队友演戏的媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "被队友气炸的媂娅",
+                    "path": "6.1-2.mp3",
+                    "description": {
+                        "zh-CN": "被队友气炸的媂娅",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "你们饭没了",
+                    "path": "6.1-4.mp3",
+                    "description": {
+                        "zh-CN": "你们饭没了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "媂氏大排档",
+                    "path": "ArtiasMidnightDiner.mp3",
+                    "description": {
+                        "zh-CN": "媂氏大排档",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "20Youbaka",
+                    "path": "20Youbaka.mp3",
+                    "description": {
+                        "zh-CN": "你们才是笨蛋",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "20Artiajiaonizhuinansheng",
+                    "path": "20Artiajiaonizhuinansheng.mp3",
+                    "description": {
+                        "zh-CN": "媂娅教你追女孩子",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "fantag",
+                    "path": "199.mp3.mp3",
+                    "description": {
+                        "zh-CN": "喜欢[大冰棒]对吧",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
@@ -960,10 +1437,37 @@
                     }
                 },
                 {
+                    "name": "201",
+                    "path": "201.mp3",
+                    "description": {
+                        "zh-CN": "最喜欢大家了",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },                
+                {
+                    "name": "88rua",
+                    "path": "88rua.mp3",
+                    "description": {
+                        "zh-CN": "拜拜",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
                     "name": "IevanPolkka",
                     "path": "IevanPolkka.mp3",
                     "description": {
                         "zh-CN": "[甩葱歌]",
+                        "ja-JP": "1",
+                        "en-US": "2"
+                    }
+                },
+                {
+                    "name": "wananqu",
+                    "path": "Iwananqu.mp3",
+                    "description": {
+                        "zh-CN": "[晚安曲]",
                         "ja-JP": "1",
                         "en-US": "2"
                     }
