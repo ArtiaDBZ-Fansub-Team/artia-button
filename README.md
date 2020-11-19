@@ -1,3 +1,7 @@
+03/06/2020 - 11/19/2020
+ArtiaDBZ officially disbanded. Updates will be released as my own repo. 
+
+
 # Artia button
 
 This is the initial version of Artia-Button. Rework starts immediately, stay tuned. 
