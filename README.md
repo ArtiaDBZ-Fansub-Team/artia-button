@@ -1,5 +1,5 @@
 03/06/2020 - 11/19/2020
-ArtiaDBZ officially disbanded. Updates will be released as my own repo. 
+ArtiaDBZ officially disbanded. Updates will be released as my own repo. (https://github.com/BattleWoLFz99/artia.moe)
 
 
 # Artia button
